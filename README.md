@@ -1,0 +1,1 @@
+This project is a Discord bot I created a couple of years ago to track the number of times my friends and I accidentally team killed each other in Escape From Tarkov.
